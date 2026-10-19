@@ -14,6 +14,7 @@ function App() {
   return (
     <div>
       <h1>React Learning - All Topics</h1>
+      <p>Welcome to my React learning journey!</p>
 
       <section>
         <h2>1. Component Basics</h2>
